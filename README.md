@@ -99,10 +99,3 @@ With the optimized parameters, our Random Forest Regressor achieves an impressiv
 
 # Model Persistence: 
 I conclude this phase by saving our well-trained model to a pickle file. This strategic move enables us to effortlessly load the model whenever needed, streamlining the process of making predictions on selling prices in future applications.
-
-# Industrial_Copper_Modeling Link : http://localhost:8501/
-
-# Contact
-
-Email     apkhare29@gmail.com
-LinkedIn  www.linkedin.com/in/apoorva-khare-7548642a6
